@@ -13,7 +13,7 @@
 
 * <a href="https://sites.google.com/a/chromium.org/chromedriver/downloads">Chrome</a>
 
-* <a href="https://github.com/mozilla/geckodriver/releasesSafari:https://webkit.org/blog/6900/webdriver-support-in-safari-10/">Firefox</a>
+* <a href="https://github.com/mozilla/geckodriver/releases">Firefox</a>
 
 3. Move it to:
 
